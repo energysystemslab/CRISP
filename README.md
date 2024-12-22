@@ -1,6 +1,6 @@
 # CRISP: A framework for comprehensive State of Health (SOH) assessment.
 
-CRISP (Comprehensive Eeal-time Insights for State-of-health Prediction) is a physics-based software developed in Python for the comprehensive assessment of the SOH of lithium-ion batteries.
+CRISP (Comprehensive Real-time Insights for State-of-health Prediction) is a physics-based software developed in Python for the comprehensive assessment of the SOH of lithium-ion batteries.
 
 LIB Degradation Analysis Code
 This repository contains Python code for lithium-ion battery (LIB) degradation analysis. The code supports processing half-cell and full-cell data under 25%, 50% and 100% depth-of-discharge (DOD).
