@@ -3,14 +3,14 @@
 CRISP (Comprehensive Real-time Insights for State-of-health Prediction) is a physics-based software developed in Python for the comprehensive assessment of the SOH of lithium-ion batteries.
 
 LIB Degradation Analysis Code
-This repository contains Python code for lithium-ion battery (LIB) degradation analysis. The code supports processing half-cell and full-cell data under 25%, 50% and 100% depth-of-discharge (DOD).
+This repository contains Python code for lithium-ion battery (LIB) degradation analysis. 
 
 Key Features
 Imports half-cell potential data for anode and cathode.
 Processes specific capacity based on active material mass.
 Generates plots for half-cell and full-cell data.
 Optimizes parameters for half-cell reconstruction and calculates metrics like N/P ratio, capacity fade, and internal resistance.
-Provides visualizations for charge/discharge profiles and homogeneity assessment.
+Provides visualizations of data.
 
 Usage
 Set up the directory paths and datasets as described in the inline comments.
